@@ -1,6 +1,6 @@
 # Leandro Galdino de Oliveira
 
-Professor de Física, engenheiro aeroespacial e desenvolvedor em formação, com interesse em sistemas embarcados, laboratórios remotos, aquisição de dados, Node.js, Arduino, C++ e aplicações educacionais de tecnologia.
+Professor de Física e desenvolvedor em formação, com interesse em sistemas embarcados, laboratórios remotos, aquisição de dados, Node.js, Arduino, C++ e aplicações educacionais de tecnologia.
 
 ## Projetos em destaque
 
