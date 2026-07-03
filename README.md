@@ -1,16 +1,16 @@
-## Hi there 👋
+# Leandro Galdino de Oliveira
 
-<!--
-**leandrogaldinodeoliveira/leandrogaldinodeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professor de Física, engenheiro aeroespacial e desenvolvedor em formação, com interesse em sistemas embarcados, laboratórios remotos, aquisição de dados, Node.js, Arduino, C++ e aplicações educacionais de tecnologia.
 
-Here are some ideas to get you started:
+## Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Laboratório Remoto de Baixo Custo com Arduino e Node.js
+- Laboratório Remoto de Cinemática
+- Estruturas de Dados em C++
+
+## Tecnologias
+
+C++ · JavaScript · Node.js · Express · Socket.IO · Arduino · SerialPort · EJS · Chart.js
 -->
+
+(https://github.com/leandrogaldinodeoliveira)
