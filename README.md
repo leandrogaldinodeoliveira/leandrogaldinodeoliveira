@@ -1,6 +1,6 @@
 # Leandro Galdino de Oliveira
 
-Professor de Física e desenvolvedor em formação, com interesse em sistemas embarcados, laboratórios remotos, aquisição de dados, Node.js, Arduino, C++ e aplicações educacionais de tecnologia.
+Professor de Física e desenvolvedor em formação, com interesse em sistemas embarcados, laboratórios remotos, aquisição de dados, Node.js, Arduino, C++ e aplicações educacionais de tecnologia e desenvolvimento web.
 
 ## Projetos em destaque
 
@@ -8,9 +8,8 @@ Professor de Física e desenvolvedor em formação, com interesse em sistemas em
 - Laboratório Remoto de Cinemática
 - Estruturas de Dados em C++
 
-## Tecnologias
+## Tecnologias de interesse
 
-C++ · JavaScript · Node.js · Express · Socket.IO · Arduino · SerialPort · EJS · Chart.js
--->
+C++ · JavaScript · Typescript · Node.js · Express · Socket.IO · Arduino/ESP32 · SerialPort · EJS · Chart.js · Mongodb · React · MQTT · node-RED
 
 (https://github.com/leandrogaldinodeoliveira)
